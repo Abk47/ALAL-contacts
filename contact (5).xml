@@ -1,36 +1,119 @@
 <?xml version="1.0" encoding="utf-8"?>
-<root_group>
-	<group display_name="All Contacts" />
-	<group display_name="Blocklist" />
-</root_group>
-<root_contact>
-	<contact display_name="ABUKA" office_number="111" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="AHAMAD" office_number="102" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="ALLEN" office_number="149" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="ANNA MWASOMOLA" office_number="114" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="BERNARD" office_number="151" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="BOARD ROOM" office_number="120" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="BYFORD" office_number="101" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="DICKSON" office_number="138" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="ELTON" office_number="116" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="EVA" office_number="110" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="FELIX" office_number="119" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="FLORIAN" office_number="146" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="FRANK" office_number="112" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="FRANK MUNGA" office_number="117" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="GABRIEL" office_number="148" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="HAPPY" office_number="141" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="JANETH" office_number="144" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="LAMECK" office_number="115" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="MEETING ROOM" office_number="109" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="MWANAIDI" office_number="137" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="NAOMI" office_number="139" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="OTHMAN" office_number="121" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="PAUL" office_number="135" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="RECEPTION" office_number="100" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="ROSALYN" office_number="136" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="ROSE" office_number="140" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="SHAMIM" office_number="107" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="TUMAINI" office_number="155" line="-1" ring="Auto" default_photo="Default:default_contact_image.png" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-	<contact display_name="VAILETH USM" office_number="124" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
-</root_contact>
+<YealinkIPPhoneDirectory>
+    <DirectoryEntry>
+        <Name>ABUKA</Name>
+        <Telephone>111</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>AHAMAD</Name>
+        <Telephone>102</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>ALLEN</Name>
+        <Telephone>149</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>ANNA MWASOMOLA</Name>
+        <Telephone>114</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>BERNARD</Name>
+        <Telephone>151</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>BOARD ROOM</Name>
+        <Telephone>120</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>BYFORD</Name>
+        <Telephone>101</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>DICKSON</Name>
+        <Telephone>138</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>ELTON</Name>
+        <Telephone>116</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>EVA</Name>
+        <Telephone>110</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>FELIX</Name>
+        <Telephone>119</Telephone>
+    </Directory>Entry>
+    <DirectoryEntry>
+        <Name>FLORIAN</Name>
+        <Telephone>146</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>FRANK</Name>
+        <Telephone>112</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>FRANK MUNGA</Name>
+        <Telephone>117</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>GABRIEL</Name>
+        <Telephone>148</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>HAPPY</Name>
+        <Telephone>141</Telephone>
+    </Directory>
+    <DirectoryEntry>
+        <Name>JANETH</Name>
+        <Telephone>144</Telephone>
+    </Directory>
+    <DirectoryEntry>
+        <Name>LAMECK</Name>
+        <Telephone>115</Telephone>
+    </Directory>
+    <DirectoryEntry>
+        <Name>MEETING ROOM</Name>
+        <Telephone>109</Telephone>
+    </Directory>
+    <DirectoryEntry>
+        <Name>MWANAIDI</Name>
+        <Telephone>137</Telephone>
+    </Directory>
+    <DirectoryEntry>
+        <Name>NAOMI</Name>
+        <Telephone>139</Telephone>
+    </Directory>
+    <DirectoryEntry>
+        <Name>OTHMAN</Name>
+        <Telephone>121</Telephone>
+    </Directory>
+    <DirectoryEntry>
+        <Name>PAUL</Name>
+        <Telephone>135</Telephone>
+    </Directory>
+    <DirectoryEntry>
+        <Name>RECEPTION</Name>
+        <Telephone>100</Telephone>
+    </Directory>
+    <DirectoryEntry>
+        <Name>ROSALYN</Name>
+        <Telephone>136</Telephone>
+    </Directory>
+    <DirectoryEntry>
+        <Name>ROSE</Name>
+        <Telephone>140</Telephone>
+    </Directory>
+    <DirectoryEntry>
+        <Name>SHAMIM</Name>
+        <Telephone>107</Telephone>
+    </Directory>
+    <DirectoryEntry>
+        <Name>TUMAINI</Name>
+        <Telephone>155</Telephone>
+    </Directory>
+    <DirectoryEntry>
+        <Name>VAILETH USM</Name>
+        <Telephone>124</Telephone>
+    </Directory>
+</YealinkIPPhoneDirectory>
