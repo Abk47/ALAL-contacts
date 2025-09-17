@@ -71,7 +71,6 @@
     <DirectoryEntry>
         <Name>LAMECK</Name>
         <Telephone>115</Telephone>
-    </Directory>
     <DirectoryEntry>
         <Name>MEETING ROOM</Name>
         <Telephone>109</Telephone>
@@ -91,29 +90,22 @@
     <DirectoryEntry>
         <Name>PAUL</Name>
         <Telephone>135</Telephone>
-    </Directory>
     <DirectoryEntry>
         <Name>RECEPTION</Name>
         <Telephone>100</Telephone>
-    </Directory>
     <DirectoryEntry>
         <Name>ROSALYN</Name>
         <Telephone>136</Telephone>
-    </Directory>
     <DirectoryEntry>
         <Name>ROSE</Name>
         <Telephone>140</Telephone>
-    </Directory>
     <DirectoryEntry>
         <Name>SHAMIM</Name>
         <Telephone>107</Telephone>
-    </Directory>
     <DirectoryEntry>
         <Name>TUMAINI</Name>
         <Telephone>155</Telephone>
-    </Directory>
     <DirectoryEntry>
         <Name>VAILETH USM</Name>
         <Telephone>124</Telephone>
-    </Directory>
 </YealinkIPPhoneDirectory>
