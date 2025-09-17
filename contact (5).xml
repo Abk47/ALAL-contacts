@@ -99,7 +99,7 @@
     <DirectoryEntry>
         <Name>ROSALYN</Name>
         <Telephone>136</Telephone>
-    </Directory>
+    </DirectoryEntry>
     <DirectoryEntry>
         <Name>ROSE</Name>
         <Telephone>140</Telephone>
@@ -115,5 +115,5 @@
     <DirectoryEntry>
         <Name>VAILETH USM</Name>
         <Telephone>124</Telephone>
-    </Directory>
+    </DirectoryEntry>
 </YealinkIPPhoneDirectory>
